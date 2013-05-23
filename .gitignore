@@ -1,0 +1,13 @@
+*~
+*.kdev4
+*.log
+*.tar.gz
+*.out
+*.list
+*.o
+*.old
+*.aux
+*.tex
+client
+server
+nc-resp
